@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://www.streltcova.art"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Natalia Streltcova"
 theme: hugo-profile
 
 outputs:
