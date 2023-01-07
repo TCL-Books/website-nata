@@ -158,7 +158,7 @@ params:
         - "Assemblage"
         - "Book alteration"
 
-  # Education
+  # Techniques
   education:
     enable: true
     title: "Techniques"
@@ -218,10 +218,9 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/TCL-Books/website-nata
       twitter: https://twitter.com
-      instagram: https://instagram.com
+      instagram: https://instagram.com/natalia_art_gallery?igshid=uohg3sqa5nzf
       facebook: https://facebook.com
 
   # List pages like blogs and posts
