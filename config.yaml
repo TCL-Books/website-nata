@@ -15,7 +15,7 @@ outputs:
 Paginate: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
-# googleAnalytics: G-MEASUREMENT_ID
+googleAnalytics: G-7JQ8YGVT67
 
 markup:
   goldmark:
@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Natalia Streltcova"
-  description: Text about my cool site
+  description: Website to showcase my artwork
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -123,15 +123,15 @@ params:
     button:
       enable: true
       name: "More..."
-      url: "#"
-      download: true
+      url: "/blogs"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/TCL-Books/website-nata
         - icon: fab fa-instagram
-          url: https://example.com
+          url: https://www.instagram.com/natalia_art_gallery/
   #    customIcons:
   #      - icon: /fav.png
   #        url: "https://example.com"
@@ -178,8 +178,8 @@ params:
           using many or heavy materials, the painting ground should be particularly firm, wood is often used.
         featuredLink:
           enable: true
-          name: "My works"
-          url: "https://example.com"
+          name: "Gallery"
+          url: "/gallery"
       - title: "Encaustic Mixed Media"
         school:
           name: "More information"
@@ -191,23 +191,15 @@ params:
           to burn in.
         featuredLink:
           enable: true
-          name: "My works"
-          url: "https://example.com"
-      - title: "Additional Section"
-        school:
-          name: "Maybe some text about painting."
-          url: "https://example.org"
-        featuredLink:
-          enable: true
-          name: "My works"
-          url: "https://example.com"
+          name: "Gallery"
+          url: "/gallery"
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: myemail@gmail.com
+    email: natalia.streltcova@gmail.com
     btnName: Mail me
 
   footer:
@@ -219,9 +211,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/TCL-Books/website-nata
-      twitter: https://twitter.com
-      instagram: https://instagram.com/natalia_art_gallery?igshid=uohg3sqa5nzf
-      facebook: https://facebook.com
+      instagram: https://www.instagram.com/natalia_art_gallery/
 
   # List pages like blogs and posts
   listPages:
